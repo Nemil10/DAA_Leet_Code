@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
 | [1763-longest-nice-substring](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -49,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1763-longest-nice-substring) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -102,4 +105,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0053-maximum-subarray) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
