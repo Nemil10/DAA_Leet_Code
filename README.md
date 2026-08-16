@@ -8,6 +8,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0654-maximum-binary-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -22,6 +23,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0654-maximum-binary-tree) |
 | [1763-longest-nice-substring](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -118,11 +120,13 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0654-maximum-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -135,4 +139,16 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
