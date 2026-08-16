@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -14,6 +15,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0053-maximum-subarray) |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
 | [1763-longest-nice-substring](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1763-longest-nice-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
