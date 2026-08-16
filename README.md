@@ -32,6 +32,7 @@
 | [0912-sort-an-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0973-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -146,6 +149,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -154,6 +158,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -195,4 +200,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0973-k-closest-points-to-origin) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
