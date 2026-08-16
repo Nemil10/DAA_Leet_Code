@@ -12,6 +12,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -30,6 +31,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -47,6 +49,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -55,6 +58,7 @@
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -107,6 +111,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Radix Sort
@@ -178,4 +183,16 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0918-maximum-sum-circular-subarray) |
+## Math
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
