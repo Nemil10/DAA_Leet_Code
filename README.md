@@ -16,6 +16,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3537-fill-a-special-grid](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -38,6 +39,7 @@
 | [1763-longest-nice-substring](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1763-longest-nice-substring) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Nemil10/DAA_Leet_Code/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3537-fill-a-special-grid](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -215,4 +217,5 @@
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Nemil10/DAA_Leet_Code/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3537-fill-a-special-grid](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3537-fill-a-special-grid) |
 <!---LeetCode Topics End-->
