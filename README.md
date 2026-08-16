@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Greedy
@@ -34,10 +36,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -50,5 +54,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
