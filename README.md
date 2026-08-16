@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Nemil10/DAA_Leet_Code/tree/master/0324-wiggle-sort-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -54,6 +56,11 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Simulation
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nemil10/DAA_Leet_Code/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
